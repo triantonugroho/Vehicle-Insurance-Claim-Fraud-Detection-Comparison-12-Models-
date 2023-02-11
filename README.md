@@ -2,6 +2,10 @@
 
 * ### This project looks for the best model performance from 12 classification models to detect fraud in automobile insurance claims. The best model is the Ada Boost Classifier with 95.90% accuracy.
 
+* ### This project has been uploaded in a website portfolio as follows:
+  - #### https://bisa.ai/portofolio/detail/Nzg3
+  - #### https://centralai.id/portofolio/detail/47
+
 ![1](https://user-images.githubusercontent.com/91950433/218259682-75e70132-565c-4b59-844b-87a0ff0ed987.png)
 
 ### Data Understanding
