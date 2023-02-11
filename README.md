@@ -97,6 +97,8 @@ The data contains 15.421 rows and 33 columns
 
 ### Models Performance Comparison
 
+![image](https://user-images.githubusercontent.com/91950433/218281678-e7a8e08e-c74e-4d3f-9add-9ed08bc24492.png)
+
 ![comparison plot](https://user-images.githubusercontent.com/91950433/218281537-0b5e8a17-8085-440c-aa76-e4ef5e5d05b9.png)
 
 ### Conclusions
