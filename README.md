@@ -20,6 +20,10 @@ The data contains 15.421 rows and 33 columns
 
 ### Exploratory Data Analysis (EDA)
 
-* ### 
+* ### Import Library
+
+* ### Upload Dataset
+
+* ###
 
 
