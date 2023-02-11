@@ -1,4 +1,4 @@
-## Vehicle Insurance Claim Fraud Detection Comparison 12 Models 
+## Vehicle Insurance Claim Fraud Detection (Comparison 12 Models) 
 
 ![1](https://user-images.githubusercontent.com/91950433/218259682-75e70132-565c-4b59-844b-87a0ff0ed987.png)
 
